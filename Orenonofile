@@ -28,7 +28,7 @@ next_cursol "マ゛マ゛"
 # previous_cursol command
 # previous_cursol's default value => "<"
 #previous_cursol "<"
-previous_cursol "にゃーん"
+previous_cursol "おんぎゃあ"
 
 # display command
 # display's default value => "."
