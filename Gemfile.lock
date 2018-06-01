@@ -1,0 +1,12 @@
+GEM
+  specs:
+    orenono (0.1.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  orenono
+
+BUNDLED WITH
+   1.16.1

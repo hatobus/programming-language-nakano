@@ -1,0 +1,41 @@
+# encoding: utf-8
+
+# increment command
+# increment's default value => "+"
+#increment "+"
+increment "おぎゃ"
+
+# decrement command
+# decrement's default value => "-"
+#decrement "-"
+decrement "ばぶ"
+
+# start_loop command
+# start_loop's default value => "["
+#start_loop "["
+start_loop "ママー"
+
+# end_loop command
+# end_loop's default value => "]"
+#end_loop "]"
+end_loop "ア゛"
+
+# next_cursol command
+# next_cursol's default value => ">"
+#next_cursol ">"
+next_cursol "マ゛マ゛"
+
+# previous_cursol command
+# previous_cursol's default value => "<"
+#previous_cursol "<"
+previous_cursol "にゃーん"
+
+# display command
+# display's default value => "."
+#display "."
+display "俺は何をしているんだ..."
+
+# read command
+# read's default value => ","
+#read ","
+read "つらい"
